@@ -1,6 +1,6 @@
 ## Cytnx:
 
-**Cytnx** (pronounced as \textit{sci-tens}) is a library designed for Quantum/classical Physics simulations.
+**Cytnx** (pronounced as *sci-tens*) is a library designed for Quantum/classical Physics simulations.
 
 
 #### - Dual languages:
